@@ -92,6 +92,7 @@ BugTrackerX is a comprehensive solution designed for teams to effectively manage
 ![Framer Motion]
 ![ApexCharts]
 ![Dayjs]
+![Toastify]
 
 ### Backend
 ![NodeJS]
@@ -283,6 +284,7 @@ Project Link: [https://github.com/tris-n/bugtrackerx](https://github.com/tris-n/
 [Framer Motion]: https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white
 [ApexCharts]: https://img.shields.io/badge/ApexCharts-000000?style=for-the-badge&logo=chart-dot-js&logoColor=white
 [Dayjs]: https://img.shields.io/badge/Dayjs-2D2D2D?style=for-the-badge&logo=calendar&logoColor=white
+[Toastify]: https://img.shields.io/badge/Toastify-FFCA28?style=for-the-badge&logo=react-toastify&logoColor=black
 
 <!-- Backend -->
 [NodeJS]: https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node-dot-js&logoColor=white
