@@ -191,32 +191,32 @@ To get a local copy up and running, follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Getting Started:
+### Getting Started
 Create an admin account at [https://www.bugtrackerx.com/register](https://www.bugtrackerx.com/register). Upon registration, it will automatically log you in.
 
 ![register]
 
-### The Dashboard:
+### The Dashboard
 The dashboard displays the total number of projects, tickets, and users, as well as their current statuses.
 
 ![dashboard]
 
-### Create Projects:
+### Create Projects
 Admins have the capability to create projects.
 
 ![projects]
 
-### Create Users:
+### Create Users
 Both admins and project managers can create user accounts.
 
 ![users]
 
-### Create Tickets:
+### Create Tickets
 All roles are granted the permission to create tickets.
 
 ![tickets]
 
-### Tickets:
+### Tickets
 A ticket provides a brief description of the bug, a more detailed explanation, the bug's type, its status, priority level, assignee, submitter, due date, and any screenshot attachments.
 
 ![singleticket]
