@@ -196,6 +196,11 @@ Create an admin account at [https://www.bugtrackerx.com/register](https://www.bu
 
 ![register]
 
+### Live Demo
+If you just want to demo the site without creating an account, you can click on one of the four role demos at [https://www.bugtrackerx.com/](https://www.bugtrackerx.com/).
+
+![demo]
+
 ### The Dashboard
 The dashboard displays the total number of projects, tickets, and users, as well as their current statuses.
 
@@ -297,6 +302,7 @@ Project Link: [https://github.com/tris-n/bugtrackerx](https://github.com/tris-n/
 
 <!-- Screenshots -->
 [register]: readme/images/register.jpg
+[demo]: readme/images/demo.jpg
 [dashboard]: readme/images/dashboard.jpg
 [projects]: readme/images/projects.jpg
 [users]: readme/images/users.jpg
